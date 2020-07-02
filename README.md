@@ -1,0 +1,2 @@
+# renameuzsbot
+renameuzsbot jmanonym
